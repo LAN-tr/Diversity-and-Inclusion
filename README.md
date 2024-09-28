@@ -3,11 +3,11 @@
 ## Overview
 
 ### Purpose
-This website's purpose is to introduce concepts around diversity and inclusion for the workplace or in an educational environment. The aim is to offer straightforward information and tips on how to implement practices which support a diverse community of people and help them feel included and valued. The idea is to present this information in a clear, organized format, creating a visually appealing, easy-to-navigate website. This should help the tartget audience quickly access the information or links that they need.  
+This website's purpose is to introduce concepts around diversity and inclusion for the workplace or in an educational environment. The aim is to offer straightforward information and tips on how to implement practices which support a diverse community of people and help them feel included and valued. The idea is to present this information in a clear, organized format, creating a visually appealing, easy-to-navigate website. This should help the target audience quickly access the information or links that they need.  
 
 
 ### Target Audience
-The target audience for this project are people working in the education sector or employers and workplace managers. At first I was thinking about including other user groups in my planning such as people in education, parents and carers of people in education, people seeking employment and people in employment. However the original brief seemed to suggest a narrower focus of presenting 'basic guidance' and information specific to helping to outline what is best practice within educational or workplace environments. I have tried to think about what various different users working within either different educational age-groups or various workplaces would want informatioon about. This is reflected in the user stories below. Some of the things that came up when I was working on the user stories are... 
+The target audience for this project are people working in the education sector or employers and workplace managers. At first I was thinking about including other user groups in my planning such as people in education, parents and carers of people in education, people seeking employment and people in employment. However the original brief seemed to suggest a narrower focus of presenting 'basic guidance' and information specific to helping to outline what is best practice within educational or workplace environments. I have tried to think about what various different users working within either different educational age-groups or various workplaces would want information about. This is reflected in the user stories below. Some of the things that came up when I was working on the user stories are... 
 
 ## User Stories
 
