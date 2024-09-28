@@ -57,11 +57,12 @@ Employment Section:
 
 ### Wireframes
 
-![alt text](image.png)
 
-![alt text](image-1.png)
+![wireframe of website design for smart phones](image.png)
 
-![alt text](image-3.png)
+![wireframe of website design for tablet screens](image-1.png)
+
+![wireframe of website design for desktop screens](image-2.png)
 
   
 Briefly describe the design choices, including layout, colour schemes, and fonts.  
