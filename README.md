@@ -7,36 +7,49 @@ This website's purpose is to introduce concepts around diversity and inclusion f
 
 
 ### Target Audience
-The target audience for this project are people working in the education sector or employers and workplace managers. At first I was thinking about including other user groups in my planning such as people in education, parents and carers of people in education, people seeking employment and people in employment. However the original brief seemed to suggest a narrower focus of presenting 'basic guidance' and information specific to helping to outline what is best practice within educational or workplace environments. I have tried to think about what various different users working within either different educational age-groups or various workplaces would want information about. This is reflected in the user stories below. Some of the things that came up when I was working on the user stories are... 
+The target audience for this project are people working in the education sector or employers and workplace managers. At first I was thinking about including other user groups in my planning such as people in education, parents and carers of people in education, people seeking employment and people in employment. However the original brief seemed to suggest a narrower focus of presenting basic guidance and information specific to helping to outline what is best practice within educational or workplace environments. I have tried to think about what various different users working within either different educational age-groups or various workplaces would want information about. This is reflected in the user stories below. Some of the things that came up when I was working on the user stories are the number of specific things people could be looking for and the need to balance general advice with more focussed help. I have decided to set up a More Information area with links in both the Education and Employment sections whilst maintaining providing a general overview of diversity and inclusion practices in the main body of each section.
 
 ## User Stories
 
-### Must-Have User Stories
-- **User Story 1:** Briefly describe the must-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
-- **User Story 2:** Briefly describe the must-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
+Education Section:
+- **User Story 1:** As an early years teacher I want to help provide an inclusive environment and find out about play-based learning within this field. 
 
-(Include all prioritized must-have features)  
-**Guidance:** Draft the user stories during Phase 1: Ideation & Initial Setup and update them as you complete Phase 2: Must User Stories Implementation & Testing. Document each must-have feature here along with its acceptance criteria.
+  **Acceptance Criteria:** Have appropriate age-range guidance and specific link(s) to lesson plans and/or resources for play-based learning to help with diversity and inclusion.
 
-### Should-Have User Stories
-- **User Story 1:** Briefly describe the should-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
-- **User Story 2:** Briefly describe the should-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
+- **User Story 2:** As a primary school teacher I would like to find out about teaching practices that cater to diverse cultural,social and learning needs and that recognize different learning styles and foster respect.
 
-(Include all prioritized should-have features)  
-**Guidance:** Document the secondary features that you aim to implement in Phase 3: Should User Stories Implementation & Any Advanced Features. Include clear acceptance criteria for each.
+  **Acceptance Criteria:** Age-appropriate advice, general tips for catering to diverse needs, specific links for different learning styles information.
 
-### Could-Have User Stories
-- **User Story 1:** Briefly describe the could-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
-- **User Story 2:** Briefly describe the could-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
+- **User Story 3:** As a secondary school teacher I would like to address any bullying as a result of perceived difference. I'm looking for advice about promoting a safe environment for all the students.
 
-(Include any could-have features considered for future enhancements)  
-**Guidance:** Document any optional features that are nice to have but not essential.
+  **Acceptance Criteria:** Guidance on trying to avoid bullying through fostering an inclusive environment, links for more specific advice for dealing with existing bullying and ways to create a welcoming, safe space for all students.
+
+ - **User Story 4:** As a tutor in further education I am looking to create an initiative to increase participation from underrepresented groups.
+
+    **Acceptance Criteria:** General diversity and inclusion guidelines for welcoming a more diverse cohort, specific links for setting up an initiative like this. 
+
+
+Employment Section:
+  - **User Story 5:** As a manager in the corporate sector I am looking for a framework for implementing a diversity training programme.
+
+    **Acceptance Criteria:** General diversity and inclusion guidelines for welcoming a more diverse cohort, specific links for setting up an initiative like this.
+
+  - **User Story 6:** As a worker in the public sector I would like to know where to access goverment equality policies.
+
+    **Acceptance Criteria:** Include a specific link to goverment equality and diversity guidelines, would be good for all users to have a link to laws around the topics.    
+
+ - **User Story 6:** As a healthcare worker in the NHS I would like to find out about ways to address health disparities in order to improve patient outcomes.
+
+    **Acceptance Criteria:** Include specific link for websites/ resources that provide information about this.
+
+  - **User Story 6:** As a worker in a non-profitorganization I would like to find ways to increase stakeholder involvement.
+
+    **Acceptance Criteria:** Include specific link for websites/ resources that provide information about this.
+
+  - **User Story 6:** As a worker in hospitality I would like to set up training for cultural sensitivity and anti-discrimination practices to create a more welcoming environment for diverse clienmtele.
+
+    **Acceptance Criteria:** General core principles advice for an overall view and then include specific links in the more infomation section.
+
 
 ## Design Decisions
 
