@@ -1,0 +1,536 @@
+{
+    "mockups": [
+        {
+            "mockup": {
+                "controls": {
+                    "control": [
+                        {
+                            "ID": "1",
+                            "typeID": "AndroidPhone",
+                            "zOrder": "1",
+                            "measuredW": "356",
+                            "measuredH": "725",
+                            "x": "495",
+                            "y": "28",
+                            "locked": "true",
+                            "properties": {
+                                "resizing": "stretch"
+                            }
+                        },
+                        {
+                            "ID": "4",
+                            "typeID": "Image",
+                            "zOrder": "2",
+                            "w": "321",
+                            "h": "163",
+                            "measuredW": "77",
+                            "measuredH": "79",
+                            "x": "512",
+                            "y": "157"
+                        },
+                        {
+                            "ID": "5",
+                            "typeID": "Canvas",
+                            "zOrder": "3",
+                            "h": "54",
+                            "measuredW": "100",
+                            "measuredH": "70",
+                            "x": "511",
+                            "y": "231"
+                        },
+                        {
+                            "ID": "9",
+                            "typeID": "RoundButton",
+                            "zOrder": "6",
+                            "w": "94",
+                            "h": "85",
+                            "measuredW": "32",
+                            "measuredH": "32",
+                            "x": "619",
+                            "y": "546",
+                            "properties": {
+                                "text": "Image\n\n"
+                            }
+                        },
+                        {
+                            "ID": "17",
+                            "typeID": "Label",
+                            "zOrder": "7",
+                            "measuredW": "59",
+                            "measuredH": "21",
+                            "x": "636",
+                            "y": "405",
+                            "locked": "true"
+                        },
+                        {
+                            "ID": "18",
+                            "typeID": "Label",
+                            "zOrder": "8",
+                            "measuredW": "59",
+                            "measuredH": "21",
+                            "x": "636",
+                            "y": "454"
+                        },
+                        {
+                            "ID": "19",
+                            "typeID": "Label",
+                            "zOrder": "9",
+                            "measuredW": "59",
+                            "measuredH": "21",
+                            "x": "636",
+                            "y": "500"
+                        },
+                        {
+                            "ID": "22",
+                            "typeID": "Label",
+                            "zOrder": "10",
+                            "measuredW": "118",
+                            "measuredH": "21",
+                            "x": "527",
+                            "y": "135",
+                            "properties": {
+                                "text": "Diversity + Inclusion"
+                            }
+                        },
+                        {
+                            "ID": "24",
+                            "typeID": "Icon",
+                            "zOrder": "11",
+                            "measuredW": "24",
+                            "measuredH": "24",
+                            "x": "794",
+                            "y": "132",
+                            "properties": {
+                                "icon": {
+                                    "ID": "bars-regular",
+                                    "size": "small"
+                                }
+                            }
+                        },
+                        {
+                            "ID": "25",
+                            "typeID": "SubTitle",
+                            "zOrder": "5",
+                            "w": "216",
+                            "measuredW": "215",
+                            "measuredH": "28",
+                            "x": "558",
+                            "y": "349",
+                            "properties": {
+                                "text": "We are here to help"
+                            }
+                        },
+                        {
+                            "ID": "26",
+                            "typeID": "Paragraph",
+                            "zOrder": "4",
+                            "w": "95",
+                            "h": "54",
+                            "measuredW": "275",
+                            "measuredH": "80",
+                            "x": "516",
+                            "y": "231",
+                            "properties": {
+                                "text": "Your resource for inclusive change\n"
+                            }
+                        },
+                        {
+                            "ID": "27",
+                            "typeID": "AndroidPhone",
+                            "zOrder": "12",
+                            "measuredW": "356",
+                            "measuredH": "725",
+                            "x": "947",
+                            "y": "28",
+                            "locked": "true",
+                            "properties": {
+                                "resizing": "stretch"
+                            }
+                        },
+                        {
+                            "ID": "29",
+                            "typeID": "Icon",
+                            "zOrder": "13",
+                            "measuredW": "24",
+                            "measuredH": "24",
+                            "x": "1251",
+                            "y": "134",
+                            "properties": {
+                                "icon": {
+                                    "ID": "bars-regular",
+                                    "size": "small"
+                                }
+                            }
+                        },
+                        {
+                            "ID": "30",
+                            "typeID": "Label",
+                            "zOrder": "14",
+                            "measuredW": "118",
+                            "measuredH": "21",
+                            "x": "976",
+                            "y": "135",
+                            "properties": {
+                                "text": "Diversity + Inclusion"
+                            }
+                        },
+                        {
+                            "ID": "34",
+                            "typeID": "Canvas",
+                            "zOrder": "0",
+                            "w": "90",
+                            "h": "56",
+                            "measuredW": "100",
+                            "measuredH": "70",
+                            "x": "964",
+                            "y": "245"
+                        },
+                        {
+                            "ID": "36",
+                            "typeID": "Canvas",
+                            "zOrder": "15",
+                            "w": "319",
+                            "h": "164",
+                            "measuredW": "100",
+                            "measuredH": "70",
+                            "x": "965",
+                            "y": "157"
+                        },
+                        {
+                            "ID": "37",
+                            "typeID": "Label",
+                            "zOrder": "16",
+                            "measuredW": "75",
+                            "measuredH": "21",
+                            "x": "979",
+                            "y": "174",
+                            "properties": {
+                                "text": "In Education"
+                            }
+                        },
+                        {
+                            "ID": "38",
+                            "typeID": "Canvas",
+                            "zOrder": "17",
+                            "w": "319",
+                            "h": "179",
+                            "measuredW": "100",
+                            "measuredH": "70",
+                            "x": "965",
+                            "y": "321"
+                        },
+                        {
+                            "ID": "39",
+                            "typeID": "Label",
+                            "zOrder": "18",
+                            "measuredW": "97",
+                            "measuredH": "21",
+                            "x": "982",
+                            "y": "339",
+                            "properties": {
+                                "text": "In the workplace"
+                            }
+                        },
+                        {
+                            "ID": "40",
+                            "typeID": "Button",
+                            "zOrder": "19",
+                            "measuredW": "90",
+                            "measuredH": "27",
+                            "x": "1197",
+                            "y": "279",
+                            "properties": {
+                                "text": "Read more"
+                            }
+                        },
+                        {
+                            "ID": "41",
+                            "typeID": "Button",
+                            "zOrder": "20",
+                            "measuredW": "90",
+                            "measuredH": "27",
+                            "x": "1197",
+                            "y": "450",
+                            "properties": {
+                                "text": "Read more"
+                            }
+                        },
+                        {
+                            "ID": "42",
+                            "typeID": "BlockOfText",
+                            "zOrder": "21",
+                            "measuredW": "275",
+                            "measuredH": "80",
+                            "x": "977",
+                            "y": "196"
+                        },
+                        {
+                            "ID": "43",
+                            "typeID": "BlockOfText",
+                            "zOrder": "22",
+                            "measuredW": "275",
+                            "measuredH": "80",
+                            "x": "980",
+                            "y": "366"
+                        },
+                        {
+                            "ID": "44",
+                            "typeID": "Image",
+                            "zOrder": "23",
+                            "w": "319",
+                            "h": "111",
+                            "measuredW": "77",
+                            "measuredH": "79",
+                            "x": "965",
+                            "y": "500"
+                        },
+                        {
+                            "ID": "47",
+                            "typeID": "Icon",
+                            "zOrder": "24",
+                            "measuredW": "24",
+                            "measuredH": "24",
+                            "x": "1019",
+                            "y": "631",
+                            "properties": {
+                                "icon": {
+                                    "ID": "facebook",
+                                    "size": "small"
+                                }
+                            }
+                        },
+                        {
+                            "ID": "48",
+                            "typeID": "Icon",
+                            "zOrder": "25",
+                            "measuredW": "24",
+                            "measuredH": "24",
+                            "x": "1211",
+                            "y": "631",
+                            "properties": {
+                                "icon": {
+                                    "ID": "instagram",
+                                    "size": "small"
+                                }
+                            }
+                        },
+                        {
+                            "ID": "49",
+                            "typeID": "Icon",
+                            "zOrder": "26",
+                            "measuredW": "24",
+                            "measuredH": "24",
+                            "x": "1113",
+                            "y": "631",
+                            "properties": {
+                                "icon": {
+                                    "ID": "twitter",
+                                    "size": "small"
+                                }
+                            }
+                        },
+                        {
+                            "ID": "50",
+                            "typeID": "TextArea",
+                            "zOrder": "27",
+                            "w": "322",
+                            "h": "388",
+                            "measuredW": "200",
+                            "measuredH": "140",
+                            "x": "85",
+                            "y": "118",
+                            "properties": {
+                                "text": "\nThese are two views of the website design for mobile phones:\n\nThe first shows the header section with the name of the website, the burger menu to save space and an image to introduce the subject matter. There is an introductory section below the first image and then a second smaller image.\n\nThe second view shows two sections which can be reached either through scrolling down or through using internal links in the burger menu. Each section has a read more button to allow for users to extend the section they are interested in. the page is finished off with a third image at the base of the page in keeping with the overall theme of the site. the social media links can go in the footer.\n"
+                            }
+                        }
+                    ]
+                },
+                "attributes": {
+                    "name": "New Wireframe 1",
+                    "order": 1000000,
+                    "parentID": null,
+                    "notes": ""
+                },
+                "branchID": "Master",
+                "resourceID": "9CF70BB8-1983-412B-A7DE-988D78E7CE78",
+                "mockupH": "725",
+                "mockupW": "1218",
+                "measuredW": "1303",
+                "measuredH": "753",
+                "version": "1.0",
+                "calloutsOffset": {
+                    "x": 85,
+                    "y": 28
+                }
+            }
+        },
+        {
+            "mockup": {
+                "controls": {
+                    "control": [
+                        {
+                            "ID": "1",
+                            "typeID": "AndroidPhone",
+                            "zOrder": "0",
+                            "measuredW": "356",
+                            "measuredH": "725",
+                            "x": "493",
+                            "y": "26",
+                            "properties": {
+                                "resizing": "stretch"
+                            }
+                        },
+                        {
+                            "ID": "4",
+                            "typeID": "Image",
+                            "zOrder": "1",
+                            "w": "321",
+                            "h": "163",
+                            "measuredW": "77",
+                            "measuredH": "79",
+                            "x": "512",
+                            "y": "157"
+                        },
+                        {
+                            "ID": "5",
+                            "typeID": "Canvas",
+                            "zOrder": "2",
+                            "h": "54",
+                            "measuredW": "100",
+                            "measuredH": "70",
+                            "x": "511",
+                            "y": "231"
+                        },
+                        {
+                            "ID": "9",
+                            "typeID": "RoundButton",
+                            "zOrder": "5",
+                            "w": "94",
+                            "h": "85",
+                            "measuredW": "32",
+                            "measuredH": "32",
+                            "x": "619",
+                            "y": "546"
+                        },
+                        {
+                            "ID": "17",
+                            "typeID": "Label",
+                            "zOrder": "6",
+                            "measuredW": "59",
+                            "measuredH": "21",
+                            "x": "636",
+                            "y": "405"
+                        },
+                        {
+                            "ID": "18",
+                            "typeID": "Label",
+                            "zOrder": "7",
+                            "measuredW": "59",
+                            "measuredH": "21",
+                            "x": "636",
+                            "y": "454"
+                        },
+                        {
+                            "ID": "19",
+                            "typeID": "Label",
+                            "zOrder": "8",
+                            "measuredW": "59",
+                            "measuredH": "21",
+                            "x": "636",
+                            "y": "500"
+                        },
+                        {
+                            "ID": "22",
+                            "typeID": "Label",
+                            "zOrder": "9",
+                            "measuredW": "118",
+                            "measuredH": "21",
+                            "x": "527",
+                            "y": "135",
+                            "properties": {
+                                "text": "Diversity + Inclusion"
+                            }
+                        },
+                        {
+                            "ID": "24",
+                            "typeID": "Icon",
+                            "zOrder": "10",
+                            "measuredW": "24",
+                            "measuredH": "24",
+                            "x": "794",
+                            "y": "132",
+                            "properties": {
+                                "icon": {
+                                    "ID": "bars-regular",
+                                    "size": "small"
+                                }
+                            }
+                        },
+                        {
+                            "ID": "25",
+                            "typeID": "SubTitle",
+                            "zOrder": "4",
+                            "w": "216",
+                            "measuredW": "215",
+                            "measuredH": "28",
+                            "x": "558",
+                            "y": "349",
+                            "properties": {
+                                "text": "We are here to help"
+                            }
+                        },
+                        {
+                            "ID": "26",
+                            "typeID": "Paragraph",
+                            "zOrder": "3",
+                            "w": "95",
+                            "h": "54",
+                            "measuredW": "275",
+                            "measuredH": "80",
+                            "x": "516",
+                            "y": "231",
+                            "properties": {
+                                "text": "Your resource for inclusive change\n"
+                            }
+                        }
+                    ]
+                },
+                "attributes": {
+                    "name": "New Wireframe 1",
+                    "order": 1000000,
+                    "parentID": null,
+                    "notes": ""
+                },
+                "branchID": "2E5684DF-4758-45FD-A550-DCB8A68C4AB2",
+                "resourceID": "9CF70BB8-1983-412B-A7DE-988D78E7CE78",
+                "mockupH": "725",
+                "mockupW": "356",
+                "measuredW": "849",
+                "measuredH": "751",
+                "version": "1.0",
+                "calloutsOffset": {
+                    "x": 493,
+                    "y": 26
+                }
+            }
+        }
+    ],
+    "assets": [],
+    "symbolLibraries": [],
+    "dependencies": [],
+    "projectID": "file:///C:/Users/lucyn/OneDrive/Documents/Diversity%20+%20Equality.bmpr",
+    "branches": {
+        "Master": "Official Version",
+        "2E5684DF-4758-45FD-A550-DCB8A68C4AB2": "Alternate 843p"
+    },
+    "comments": {},
+    "thumbnails": [],
+    "users": [],
+    "resourceTree": [
+        {
+            "resourceID": "9CF70BB8-1983-412B-A7DE-988D78E7CE78",
+            "parentID": null,
+            "order": 1000000
+        }
+    ]
+}
