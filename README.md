@@ -40,15 +40,15 @@ Employment Section:
 
     **Acceptance Criteria:** Include a specific link to goverment equality and diversity guidelines, would be good for all users to have a link to laws around the topics.    
 
- - **User Story 6:** As a healthcare worker in the NHS I would like to find out about ways to address health disparities in order to improve patient outcomes.
+ - **User Story 7:** As a healthcare worker in the NHS I would like to find out about ways to address health disparities in order to improve patient outcomes.
 
     **Acceptance Criteria:** Include specific link for websites/ resources that provide information about this.
 
-  - **User Story 6:** As a worker in a non-profitorganization I would like to find ways to increase stakeholder involvement.
+  - **User Story 8:** As a worker in a non-profit organization I would like to find ways to increase stakeholder involvement.
 
     **Acceptance Criteria:** Include specific link for websites/ resources that provide information about this.
 
-  - **User Story 6:** As a worker in hospitality I would like to set up training for cultural sensitivity and anti-discrimination practices to create a more welcoming environment for diverse clienmtele.
+  - **User Story 9:** As a worker in hospitality I would like to set up training for cultural sensitivity and anti-discrimination practices to create a more welcoming environment for diverse clienmtele.
 
     **Acceptance Criteria:** General core principles advice for an overall view and then include specific links in the more infomation section.
 
@@ -56,7 +56,14 @@ Employment Section:
 ## Design Decisions
 
 ### Wireframes
-Include wireframes for key sections of your website.  
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-3.png)
+
+  
 Briefly describe the design choices, including layout, colour schemes, and fonts.  
 **Guidance:** Start this section during Phase 1: Ideation & Initial Setup and update it throughout Phase 2 and Phase 3. Include digital wireframes created in Phase 1. Document the reasoning behind your layout choices, colour schemes, and font selections.
 
