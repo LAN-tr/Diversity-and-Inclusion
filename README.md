@@ -48,7 +48,7 @@ Employment Section:
 
     **Acceptance Criteria:** Include specific link for websites/ resources that provide information about this.
 
-  - **User Story 9:** As a worker in hospitality I would like to set up training for cultural sensitivity and anti-discrimination practices to create a more welcoming environment for diverse clienmtele.
+  - **User Story 9:** As a worker in hospitality I would like to set up training for cultural sensitivity and anti-discrimination practices to create a more welcoming environment for diverse clientele.
 
     **Acceptance Criteria:** General core principles advice for an overall view and then include specific links in the more infomation section.
 
