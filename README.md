@@ -113,9 +113,19 @@ Describe any challenges faced
 Provide any additional insights gained during the project and thoughts on the overall process.  
 **Guidance:** Begin drafting reflections during Phase 1 and update throughout the project. Finalize this section after Phase 4. Highlight successes and challenges, regarding, and provide overall insights into the project.
 
-## Code Attribution
+## Code Attribution and other credits
 Properly attribute any external code sources used in the project (excluding GitHub Copilot-generated code).  
 **Guidance:** Document any external code sources used throughout the entire project, especially during Phase 2 and Phase 3. Exclude GitHub Copilot-generated code from attribution.
+
+Need to reference images, code that inspired you, text/copy not written by you, resources that assisted your project.
+
+Scope for business, colour contrast accessibility: https://business.scope.org.uk/colour-contrast-and-accessibility/
+
+Design your way, accessible typography: https://www.designyourway.net/blog/best-fonts-for-accessibility/
+
+WCAG information
+
+Pexels website (put specific image references in)
 
 ## Future Improvements
 Briefly discuss potential future improvements or features that could be added to the project.  
