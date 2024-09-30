@@ -67,7 +67,7 @@ Employment Section:
   
 Briefly describe the design choices, including layout, colour schemes, and fonts. 
 
-This is going to be a responsive, mobile first development, as the majority of internet traffic comes from mobile phones but the site will also make the most of larger screen sizes. This is a one page layout with a main navigation menu and structured content. I am using colour contrast and alt-text for non-text elements to make the site more accessible. I am introducing the topic of diversity and inclusivity with an image at the top and a message about what the content can provide. The content is organized into clear sections with headings and paragraphs that outline the key priciples of diversity and inclusion. I am providing a simple list of tips and best practices to help users understand how to promote diversity. I am using button styling for links to external resources making them easy to identify and click. (Should some of this be in features section?)
+This is going to be a responsive, mobile first development, as the majority of internet traffic comes from mobile phones but the site will also make the most of larger screen sizes. This is a one page layout with a main navigation menu and structured content. I am using colour contrast and alt-text for non-text elements to make the site more accessible. I am introducing the topic of diversity and inclusivity with an image at the top and a message about what the content can provide. The content is organized into clear sections with headings and paragraphs that outline the key priciples of diversity and inclusion. I am providing a simple list of tips and best practices to help users understand how to promote diversity. I am using button styling for links to external resources making them easy to identify and click. I have used the Roboto font from Google Fonts as a base font and the Lato font as a title font. The colours I am using are: #3a3a3a for the text and styling the icons in the footer and also for my box shadow. The background is white (#ffffff#). (Should some of this be in features section?)
 
 **Guidance:** Start this section during Phase 1: Ideation & Initial Setup and update it throughout Phase 2 and Phase 3. Include digital wireframes created in Phase 1. Document the reasoning behind your layout choices, colour schemes, and font selections.
 
@@ -133,6 +133,8 @@ Pexels website (put specific image references in)
 Accessible colour palette builder: https://toolness.github.io/accessible-color-matrix/ 
 
 Google Fonts (For Roboto and Lato fonts): https://fonts.google.com/ 
+
+Cloudconvert.com used to convert image files from pexels to webp format for quicker load times to improve user experience.
 
 ## Future Improvements
 Briefly discuss potential future improvements or features that could be added to the project.  
