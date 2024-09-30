@@ -132,6 +132,8 @@ Pexels website (put specific image references in)
 
 Accessible colour palette builder: https://toolness.github.io/accessible-color-matrix/ 
 
+Google Fonts (For Roboto and Lato fonts): https://fonts.google.com/ 
+
 ## Future Improvements
 Briefly discuss potential future improvements or features that could be added to the project.  
 **Guidance:** Reflect on potential enhancements that could be made to the project after Phase 4: Final Testing, Debugging & Deployment. These could be Could user story features you didn’t have time to implement or improvements based on testing feedback.
