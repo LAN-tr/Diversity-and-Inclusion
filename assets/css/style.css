@@ -151,6 +151,49 @@ hr {
     justify-content: center;
 }
 
+#diversity h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+}
+
+#inclusivity h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+}
+
+#diversity>div, #inclusivity>div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#diversity h3 {
+    padding: 0 20px;
+} 
+
+
+#diversity p {
+    padding: 0 20px;
+}
+
+#inclusivity p {
+    padding: 0 20px;
+}
+
+#inclusivity h3 {
+    padding: 0 20px;
+} 
+
+#characteristics {
+    padding: 0 20px; 
+}
+
+#avoid li {
+    padding: 0 20px; 
+}
+
+
 
 /* footer */
 #social-networks {
