@@ -145,6 +145,12 @@ hr {
     max-height: 300px;
 }
 
+#benefits-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 
 /* footer */
 #social-networks {
