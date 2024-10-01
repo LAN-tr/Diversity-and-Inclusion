@@ -18,6 +18,14 @@ body {
     font-family: 'Roboto' , sans-serif;
 }
 
+h1, h2 {
+    font-family: 'Lato' , sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
+}
+
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -36,12 +44,6 @@ header a {
     color: inherit;
 }
 
-h1 {
-    font-family: 'Lato' , sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #252525;
-}
 
 #menu {
     font-size: 110%;
@@ -90,7 +92,24 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/murmuration.webp") no-repeat center center/cover;
+    position: relative;
 }
+
+#cover-text {
+    background-color: rgba(241, 109, 107, .7); 
+    font-size: 130%;
+    position: absolute;
+    bottom: 30px;
+    width: 80%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+}
+
+#cover-text > h2 {
+    color: #ffffff;
+}
+
 
 /* footer */
 #social-networks {
@@ -135,6 +154,12 @@ main {
         font-size: 200%;
         /*line-height: 75px;*/
         margin: 0 0.5rem;
+    }
+
+    /* Hero */
+    #cover-text {
+        width: 300px;
+        right: 50px;
     }
 }
 
