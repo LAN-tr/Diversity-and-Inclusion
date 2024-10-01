@@ -155,12 +155,14 @@ hr {
     margin-bottom: 20px;
     text-align: center;
     font-size: 280%;
+    padding-top: 10%;
 }
 
 #inclusivity h2 {
     margin-bottom: 20px;
     text-align: center;
     font-size: 280%;
+    padding-top: 5%;
 }
 
 #diversity>div, #inclusivity>div {
@@ -309,4 +311,5 @@ hr {
     #benefits2 > div {
         align-self: flex-end;
     }
+
 }
