@@ -202,6 +202,22 @@ hr {
         width: 300px;
         right: 50px;
     }
+
+    /* Benefits section */
+    #benefits1, #benefits2 {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    #benefits1 > div, #benefits2 > div {
+        width: 75%;
+    }
+
+    #benefits2 > div {
+        text-align: end;
+        align-self: flex-end;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and larger)*/
@@ -214,4 +230,33 @@ hr {
         margin-top: 53.59px;
     }
 
+}
+
+/* For screens 1200 px or larger */
+@media screen and (min-width: 1200px) {
+    /* Benefits section */
+    #benefits {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #benefits > div {
+        flex: 1;
+    }
+
+    #benefits-image {
+        order: 0;
+    }
+
+    #benefits1 {
+        order: 1;
+    }
+
+    #benefits1 > div {
+        align-self: flex-start;
+    }
+
+    #benefits2 > div {
+        align-self: flex-end;
+    }
 }
