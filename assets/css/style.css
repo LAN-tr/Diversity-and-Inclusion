@@ -110,6 +110,41 @@ main {
     color: #ffffff;
 }
 
+#help {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#help h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+}
+
+#benefits1>div, #benefits2>div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#benefits p {
+    padding: 0 20px;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
+
+#circle-cover-bg {
+    background: url("../images/pexels-photo-6152103people.webp") no-repeat top center / cover;
+    height: 90vw;
+    width: 90w;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+
 
 /* footer */
 #social-networks {
