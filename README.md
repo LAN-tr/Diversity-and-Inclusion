@@ -119,9 +119,11 @@ I used colour contrasting text and backgrounds and I added alt text for my font 
 
 - **Feature 3:** Images: Responsive at different sizes, particularly circular image.
 
-- **Feature 4:** Layout: responsive at different screen sizes: mobile phones, tablets 768px or larger, laptops/ desktops 992px or larger and bigger screens at 1200px or larger.
+- **Feature 4:** Layout: responsive at different screen sizes use media queries to maintain integrity across different sizes: mobile phones, tablets 768px or larger, laptops/ desktops 992px or larger and bigger screens at 1200px or larger.
 
-- **Feature 5:** Links to social media in footer: hand appears when hover over.
+- **Feature 5:** Information sections: Content organized into clear sections with headings and paragraphs that outline key principles of diversity and inclusion.
+
+- **Feature 6:** Links to social media in footer: hand appears when hover over.
 
 
 ## Testing and Validation
