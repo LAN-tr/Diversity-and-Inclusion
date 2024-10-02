@@ -56,6 +56,21 @@ Employment Section:
 
     **Acceptance Criteria:** General core principles advice for an overall view and then include specific links in the more infomation section.
 
+## Update
+
+I think the above user stories were too specific for the brief, I initially tried putting in two sections one for advice for educators and one advice for employers, and then trying to cover different age groupos and different workplaces in those respective sections but it both seemed to provide too much information and not enough and fall between two stools really. I went back to the brief and simplified my content and the two sections became one titled Diversity and one titled Inclusivity. I think this reflects my lack of familiarity with the user stories approach and I should ahve pared this all back at the design stage.
+
+The goals we were given for the assignment were:
+
+External User’s Goal:
+The user wants to gain a basic understanding of diversity and inclusion in the workplace or educational environment. They seek straightforward information and tips presented in a clear, organised format.
+
+Site Owner’s Goal:
+The site owner aims to create a visually appealing, easy-to-navigate webpage that introduces diversity and inclusion concepts and offers basic guidance on how to implement these practices. The focus is on clear communication through effective use of HTML and CSS.
+
+These were the two sets of needs I focussed on in the end.
+
+
 
 ## Design Decisions
 
