@@ -90,7 +90,7 @@ I have used the Roboto font from Google Fonts as a base font and the Lato font a
 
 **Update** 
 
-The design changed from my wireframes as I decided to change the content, cover text, and section headings. The cover text changed from 'Your resource for inclusive change' to 'Impower. Include. Thrive.' The 'We are here to help' section became 'Encouraging equality, diversity and inclusion brings numerous benefits'. The two sections accessible through internal links became 'Diversity' and 'Inclusion'.
+The design changed from my wireframes as I decided to change the content, cover text, and section headings. The cover text changed from 'Your resource for inclusive change' to 'Impower. Include. Thrive.' The 'We are here to help' section became 'Encouraging Equality, Diversity And Inclusion Brings Numerous Benefits'. The two sections accessible through internal links became 'Diversity' and 'Inclusion'.
 
 ### Screenshots of deployed site
 
