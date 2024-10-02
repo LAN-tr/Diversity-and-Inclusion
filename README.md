@@ -86,16 +86,17 @@ These were the two sets of needs I focussed on in the end.
   
 This is going to be a responsive, mobile first development, as the majority of internet traffic comes from mobile phones but the site will also make the most of larger screen sizes. This is a one page layout with a main navigation menu and structured content. I am using colour contrast and alt-text for non-text elements to make the site more accessible. I am introducing the topic of diversity and inclusivity with an image at the top and a message about what the content can provide. The content is organized into clear sections with headings and paragraphs that outline the key priciples of diversity and inclusion. I am providing a simple list of tips and best practices to help users understand how to promote diversity. I have used the Roboto font from Google Fonts as a base font and the Lato font as a title font. The colours I am using are: #3a3a3a for the text and styling the icons in the footer and also for my box shadow. The background is white (#ffffff#) and the h1 text is #252525. The cover text box is rgba (241, 109, 107, .7) the .7 makes it lightly transparent, the colour complements the sky image and adds a splash of colour to the hero image.
 
-**Guidance:** Start this section during Phase 1: Ideation & Initial Setup and update it throughout Phase 2 and Phase 3. Include digital wireframes created in Phase 1. Document the reasoning behind your layout choices, colour schemes, and font selections.
+**Update** 
+
+The design changed from my wireframes as I decided to change the content, cover text, and section headings. The cover text changed from 'Your resource for inclusive change' to 'Impower. Include. Thrive.' The 'We are here to help' section became 'Encouraging equality, diversity and inclusion brings numerous benefits'. The two sections became 'Diversity' and 'Inclusion'.
 
 ### Accessibility Considerations
-colour contrast and alt text for images.  
-**Guidance:** Outline how you've incorporated accessibility into your design, ensuring that your project adheres to guidelines such as WCAG.
+ 
+I used colour contrasting text and backgrounds and I added alt text for my font awesome icons. I followed guidance about the background images and decorative images that I shouldn't add alt text for these as if they were pure decoration the alt text could confuse or clutter the screen reader experience. I added hidden headings though to any sections that didn't have them, this was picked up by the validator. 
 
 
-## Features Implementation
-
-### Features 
+## Features 
+ 
 - **Feature 1:** Description of the implemented feature.
 - **Feature 2:** Description of the implemented feature.
 
