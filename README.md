@@ -90,6 +90,20 @@ This is going to be a responsive, mobile first development, as the majority of i
 
 The design changed from my wireframes as I decided to change the content, cover text, and section headings. The cover text changed from 'Your resource for inclusive change' to 'Impower. Include. Thrive.' The 'We are here to help' section became 'Encouraging equality, diversity and inclusion brings numerous benefits'. The two sections accessible through internal links became 'Diversity' and 'Inclusion'.
 
+### Screenshots of deployed site
+
+Screenshot of monitor with fullscreen view of deployed site:
+
+![screenshot of monitor fullscreen view of deployed site](image-3.png)
+
+Screenshot of tablet sized view of benefits section:
+
+![screenshot of tablet sized view of benefits section](image-4.png)
+
+Screenshot of mobile sized view of benefits section:
+
+![screenshot of mobile sized view of benefits section](image-5.png)
+
 ### Accessibility Considerations
  
 I used colour contrasting text and backgrounds and I added alt text for my font awesome icons. I followed guidance about the background images and decorative images that I shouldn't add alt text for these as if they were pure decoration the alt text could confuse or clutter the screen reader experience. I added hidden headings though to any sections that didn't have them, this was picked up by the validator. 
@@ -112,7 +126,7 @@ I used colour contrasting text and backgrounds and I added alt text for my font 
 
 ### Testing Results
 
-Tested across various browsers on my computer: Google chrome, Firefox and Microsoft Edge and the site was working on all of them.
+Tested across various browsers on my computer: Google Chrome, Firefox and Microsoft Edge and the site was working on all of them.
 
 Tested the site on my iphone on the duck duck go browser and the site worked as expected. The drop down from the burger menu obscures the title when using the internal links, I would have liked to make the menu close on the click action but I couldn't get this to work.
 
@@ -120,7 +134,7 @@ Tested the site on my iphone on the duck duck go browser and the site worked as 
 
 I ran my html code through the W3C Markup Validation Service available here: https://validator.w3.org/
 
-I was using the html command br in my list to separate out the list items on the page but I changed this to adding in a margin-bottom: 15px in my CSS file. I also didn't have headings for my 'charactersitics' and 'final image' sections so I added in headings and gave them a class of "hidden" and targeted this in the CSS with display: none. I then ran the code through again and everything was fine and there were "no errors".
+I was using the html command br in my list to separate out the list items on the page but I changed this to adding in a margin-bottom: 15px in my CSS file. I also didn't have headings for my 'characteristics' and 'final image' sections so I added in headings and gave them a class of "hidden" and targeted this in the CSS with display: none. I then ran the code through again and everything was fine and there were "no errors".
 
 I ran my CSS code through the W3C  CSS Validation Service available here: https://jigsaw.w3.org/css-validator/
 
@@ -158,19 +172,16 @@ Once deployed I tested the site on different browsers and my phone as outlined a
 
 ### Successes
 
+I made a webpage and can click on the repository link and see something I made in a web browser or on my phone. This is my first proper webpage and I liked this aspect of the project, though I know there are things to improve.
 
-### Challenges
-Describe any challenges faced 
+### Challenges and Final Thoughts
 
-### Final Thoughts
-Provide any additional insights gained during the project and thoughts on the overall process.  
-**Guidance:** Begin drafting reflections during Phase 1 and update throughout the project. Finalize this section after Phase 4. Highlight successes and challenges, regarding, and provide overall insights into the project.
+At the end of this process I feel I better understand what I should have done in the planning stage to make the website building phase more straight forward. I should have whittled down the user stories and prioritzed what content I needed. I should have planned the features more especially the sections containing the information. I should have planned out the whole layout at the beginning instead of trying to add things in as I went as when I came to the Diversity and Inclusion sections I didn't have the layout in place to make them as responsive as I would have liked.
+
 
 ## Code Attribution and other credits
-Properly attribute any external code sources used in the project (excluding GitHub Copilot-generated code).  
-**Guidance:** Document any external code sources used throughout the entire project, especially during Phase 2 and Phase 3. Exclude GitHub Copilot-generated code from attribution.
-
-Need to reference images, code that inspired you, text/copy not written by you, resources that assisted your project.
+ 
+### Some resources that I used:
 
 Scope for business, colour contrast accessibility: https://business.scope.org.uk/colour-contrast-and-accessibility/
 
@@ -178,7 +189,7 @@ Design your way, accessible typography: https://www.designyourway.net/blog/best-
 
 WCAG information
 
-Pexels website (put specific image references in)
+Pexels website: https://www.pexels.com/
 
 Accessible colour palette builder: https://toolness.github.io/accessible-color-matrix/ 
 
@@ -186,9 +197,27 @@ Google Fonts (For Roboto and Lato fonts): https://fonts.google.com/
 
 Cloudconvert.com used to convert image files from pexels to webp format for quicker load times to improve user experience.
 
+icons from font awesome: https://fontawesome.com/
+
+I adapted some code from Code Institute projects and LMS resources that I have worked through previously: I looked at the internal links section again, Love Running, the Individual Formative Assignment information and included the Goals for the project. I also used the Miro board information from a guided session to find where to convert my images to webp files. I looked up how to do some other things that ultimately didn't work/get included such as making and adding javicons and creating an accordian for my Diversity and Inclusion sections.
+
+I took my content partly from AI generated by ChatGPT, partly from Acas, the Advisory, Conciliation and Arbitration Service website: https://www.acas.org.uk/improving-equality-diversity-and-inclusion
+
+The specific photo credits for the images I used from the pexel site are:
+
+Hero image: papatya films - photo of birds flying together
+
+Benefits image: 
+
+Final image: Oleksandr P - Color Pencil Lot
+
 ## Future Improvements
-Briefly discuss potential future improvements or features that could be added to the project.  
-**Guidance:** Reflect on potential enhancements that could be made to the project after Phase 4: Final Testing, Debugging & Deployment. These could be Could user story features you didn’t have time to implement or improvements based on testing feedback.
+
+For this specific site I would like to make it so that when you click on the burger icon drop down menu the menu closes on the click action so it stops obscuring the titles of the sections it is linking to.
+
+For myself making other sites I would change my planning process, I think by doing this project I have a better idea of how to approach something else in the future and would plan my layout all at the beginning and be more definite about the content and how I wanted everything to look and where I was going to find out any information instead of adding things in as I went along.
+
+
 
 
 
