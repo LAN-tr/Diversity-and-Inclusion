@@ -88,7 +88,7 @@ This is going to be a responsive, mobile first development, as the majority of i
 
 **Update** 
 
-The design changed from my wireframes as I decided to change the content, cover text, and section headings. The cover text changed from 'Your resource for inclusive change' to 'Impower. Include. Thrive.' The 'We are here to help' section became 'Encouraging equality, diversity and inclusion brings numerous benefits'. The two sections became 'Diversity' and 'Inclusion'.
+The design changed from my wireframes as I decided to change the content, cover text, and section headings. The cover text changed from 'Your resource for inclusive change' to 'Impower. Include. Thrive.' The 'We are here to help' section became 'Encouraging equality, diversity and inclusion brings numerous benefits'. The two sections accessible through internal links became 'Diversity' and 'Inclusion'.
 
 ### Accessibility Considerations
  
@@ -97,29 +97,61 @@ I used colour contrasting text and backgrounds and I added alt text for my font 
 
 ## Features 
  
-- **Feature 1:** Description of the implemented feature.
-- **Feature 2:** Description of the implemented feature.
+- **Feature 1:** Hero section: Header section to introduce the topic with image and cover text.
 
-   (features earmarked for future project iterations?)
+- **Feature 2:** Navigation: burger menu for mobile view, separate headings for larger views, internal links.
+
+- **Feature 3:** Images: Responsive at different sizes, particularly circular image.
+
+- **Feature 4:** Layout: responsive at different screen sizes: mobile phones, tablets 768px or larger, laptops/ desktops 992px or larger and bigger screens at 1200px or larger.
+
+- **Feature 5:** Links to social media in footer: hand appears when hover over.
+
 
 ## Testing and Validation
 
 ### Testing Results
-Summarize the results of testing across different devices and screen sizes.  
-Mention any issues found and how they were resolved.  
-**Guidance:** Summarize the results of your testing across various devices using tools like Chrome DevTools, as outlined in Phase 2. Mention any issues found and how they were resolved.
+
+Tested across various browsers on my computer: Google chrome, Firefox and Microsoft Edge and the site was working on all of them.
+
+Tested the site on my iphone on the duck duck go browser and the site worked as expected. The drop down from the burger menu obscures the title when using the internal links, I would have liked to make the menu close on the click action but I couldn't get this to work.
 
 ### Validation
-Discuss the validation process for HTML and CSS using W3C and Jigsaw validators.  
-Include the results of the validation process.  
-**Guidance:** Document your use of W3C and Jigsaw validators to ensure your HTML and CSS meet web standards. Include any errors or warnings encountered and how they were resolved.
+
+I ran my html code through the W3C Markup Validation Service available here: https://validator.w3.org/
+
+I was using the html command br in my list to separate out the list items on the page but I changed this to adding in a margin-bottom: 15px in my CSS file. I also didn't have headings for my 'charactersitics' and 'final image' sections so I added in headings and gave them a class of "hidden" and targeted this in the CSS with display: none. I then ran the code through again and everything was fine and there were "no errors".
+
+I ran my CSS code through the W3C  CSS Validation Service available here: https://jigsaw.w3.org/css-validator/
+
+There were no errors in my CSS code acording to the validator so I didn't make any changes.
+
 
 ## Deployment
 
 ### Deployment Process
-Briefly describe the deployment process to GitHub Pages or another cloud platform.  
-Mention any specific challenges encountered during deployment.  
-**Guidance:** Describe the steps you took to deploy your website during Phase 4: Final Testing, Debugging & Deployment, including any challenges encountered.
+
+I used the deployment advice from code Institute's Lets Deploy! section on the LMS:
+
+Go to the Settings tab of your GitHub repo.
+
+On the left-hand sidebar, in the Code and automation section, select Pages.
+
+Make sure:
+
+Source is set to 'Deploy from Branch'.
+
+Main branch is selected.
+
+Folder is set to / (root).
+
+Under Branch, click Save.
+
+Go back to the Code tab. Wait a few minutes for the build to finish and refresh your repo.
+
+Click View deployment to see the live site. The URL will look similar to YOUR-USERNAME.github.io/Your-Project-Title.
+
+Once deployed I tested the site on different browsers and my phone as outlined above in the Testing Results section and it worked the same as in the browser window from my gitpod.
 
 
 ## Reflection on Development Process
