@@ -192,7 +192,8 @@ hr {
 }
 
 #avoid li {
-    padding: 0 20px; 
+    padding: 0 20px;
+    margin-bottom: 15px; 
 }
 
 #final-image {
@@ -200,6 +201,10 @@ hr {
     width: 100%;
     background: url("../images/pencils2.webp") no-repeat center center/cover;
     position: relative;
+}
+
+.hidden {
+    display: none;
 }
 
 
