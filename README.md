@@ -58,7 +58,7 @@ Employment Section:
 
 ## Update
 
-I think the above user stories were too specific for the brief, I initially tried putting in two sections one for advice for educators and one advice for employers, and then trying to cover different age groupos and different workplaces in those respective sections but it both seemed to provide too much information and not enough and fall between two stools really. I went back to the brief and simplified my content and the two sections became one titled Diversity and one titled Inclusivity. I think this reflects my lack of familiarity with the user stories approach and I should ahve pared this all back at the design stage.
+I think the above user stories were too specific for the brief, I initially tried putting in two sections one for advice for educators and one advice for employers, and then trying to cover different age groups and different workplaces in those respective sections but it both seemed to provide too much information and not enough and fall between two stools really. I went back to the brief and simplified my content and the two sections became one titled Diversity and one titled Inclusivity. I think this reflects my lack of familiarity with the user stories approach and I should have pared this all back at the design stage.
 
 The goals we were given for the assignment were:
 
