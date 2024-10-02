@@ -3,13 +3,17 @@
 ## Overview
 
 ### Purpose
-This website's purpose is to introduce concepts around diversity and inclusion for the workplace or in an educational environment. The aim is to offer straightforward information and tips on how to implement practices which support a diverse community of people and help them feel included and valued. The idea is to present this information in a clear, organized format, creating a visually appealing, easy-to-navigate website. This should help the target audience quickly access the information or links that they need.  
+This website's purpose is to introduce concepts around diversity and inclusion for the workplace or in an educational environment. The aim is to offer straightforward information and tips on how to implement practices which support a diverse community of people and help them feel included and valued. The idea is to present this information in a clear, organized format, creating a visually appealing, easy-to-navigate website. This should help the target audience quickly access the information that they need.  
 
 
 ### Target Audience
 The target audience for this project are people working in the education sector or employers and workplace managers. At first I was thinking about including other user groups in my planning such as people in education, parents and carers of people in education, people seeking employment and people in employment. However the original brief seemed to suggest a narrower focus of presenting basic guidance and information specific to helping to outline what is best practice within educational or workplace environments. 
 
 I have tried to think about what various different users working within either different educational age-groups or various workplaces would want information about. This is reflected in the user stories below. Some of the things that came up when I was working on the user stories are the number of specific things people could be looking for and the need to balance general advice with more focussed help. I have decided to set up a More Information area with links in both the Education and Employment sections whilst maintaining providing a general overview of diversity and inclusion practices in the main body of each section.
+
+### Update
+
+I didn't set up the More Information sections and I pared back the content I was going to include quite considerably. It was just too much text and trying to be too many things at once. I focussed instead on the original brief to provide a basic understanding of diversity and inclusion. I will comment more about changing the content once I had started building the site in the Challenges and Final Thoughts section. Obviously it is not the best approach.
 
 ## User Stories
 
@@ -65,9 +69,7 @@ Employment Section:
 ![wireframe image of website design for desktop screens](image-2.png)
 
   
-Briefly describe the design choices, including layout, colour schemes, and fonts. 
-
-This is going to be a responsive, mobile first development, as the majority of internet traffic comes from mobile phones but the site will also make the most of larger screen sizes. This is a one page layout with a main navigation menu and structured content. I am using colour contrast and alt-text for non-text elements to make the site more accessible. I am introducing the topic of diversity and inclusivity with an image at the top and a message about what the content can provide. The content is organized into clear sections with headings and paragraphs that outline the key priciples of diversity and inclusion. I am providing a simple list of tips and best practices to help users understand how to promote diversity. I am using button styling for links to external resources making them easy to identify and click. I have used the Roboto font from Google Fonts as a base font and the Lato font as a title font. The colours I am using are: #3a3a3a for the text and styling the icons in the footer and also for my box shadow. The background is white (#ffffff#) and the h1 text is #252525. (Should some of this be in features section?)
+This is going to be a responsive, mobile first development, as the majority of internet traffic comes from mobile phones but the site will also make the most of larger screen sizes. This is a one page layout with a main navigation menu and structured content. I am using colour contrast and alt-text for non-text elements to make the site more accessible. I am introducing the topic of diversity and inclusivity with an image at the top and a message about what the content can provide. The content is organized into clear sections with headings and paragraphs that outline the key priciples of diversity and inclusion. I am providing a simple list of tips and best practices to help users understand how to promote diversity. I have used the Roboto font from Google Fonts as a base font and the Lato font as a title font. The colours I am using are: #3a3a3a for the text and styling the icons in the footer and also for my box shadow. The background is white (#ffffff#) and the h1 text is #252525. The cover text box is rgba (241, 109, 107, .7) the .7 makes it lightly transparent, the colour complements the sky image and adds a splash of colour to the hero image.
 
 **Guidance:** Start this section during Phase 1: Ideation & Initial Setup and update it throughout Phase 2 and Phase 3. Include digital wireframes created in Phase 1. Document the reasoning behind your layout choices, colour schemes, and font selections.
 
